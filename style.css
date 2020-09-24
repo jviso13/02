@@ -1,14 +1,12 @@
 .image-space {
     padding: 8px;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border: black 2px solid;
+    padding: 8px;
+    height: 250px;
+    width: 200px;
 }
 
-.imgage {
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-left: 50px;
-    border: black 2px solid;
-    padding: 4px;
-    height: 300px;
-    
-}
